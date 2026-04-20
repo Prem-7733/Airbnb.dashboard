@@ -57,7 +57,7 @@ Airbnb dataset containing:
 
 7. Screenshot
 
-Show what dashboard looks like - 
+Show what dashboard looks like - [https://github.com/Prem-7733/Airbnb.dashboard/blob/main/Overview.png]
 
 
 ⸻
